@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CekSurat App</string>
+    <string name="surat_api_key" translatable="false">YOUR_SURAT_API_KEY</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="category_business">Cek Surat</string>
+    <string name="category_entertainment">Kirim Surat</string>
+    <string name="category_health">Buat Surat</string>
+    <string name="category_science">Science</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_technology">Technology</string>
+    <string name="surat" translatable="false">Surat Terbaru</string>
+    <string name="surat_dialog_info" translatable="false">Go to Website for more details.</string>
+    <string name="goto_website">Go to Website</string>
+    <string name="search_in_everything">Search in everything…</string>
+    <string name="ceksurat_id" translatable="false">CekSurat.ID</string>
+</resources>
